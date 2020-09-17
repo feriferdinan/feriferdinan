@@ -7,5 +7,5 @@
 - 🔭 I’m currently working on Cudocomm.com
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me: http://instagram.com/feriferdinanid
-- 😄 Pronouns: ...
+- 😄 Pronouns: call me feri
 - ⚡ Fun fact: ...
