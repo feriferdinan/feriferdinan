@@ -24,6 +24,8 @@ Hi, I am a Javascript Developer, I like to learn something new. Experience build
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feriferdinan&theme=vue">
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=feriferdinan&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=feriferdinan)
